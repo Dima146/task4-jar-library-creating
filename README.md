@@ -1,2 +1,2 @@
 ### Epam Java Web Development Task
-Creating and using .jar file
+Creating and using a .jar file
